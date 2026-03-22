@@ -8,7 +8,7 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
+1. Input the order 𝑛 and elements of the square matrix A.
 2. 
 3. 
 4. 
@@ -50,8 +50,7 @@ print(x)
 ```
 
 ## Output:
-![image]("https://github.com/VGSAIRAIMA/LU-Decomposition/blob/main/Screenshot%202026-03-22%20155048.png")
-![image]("https://github.com/VGSAIRAIMA/LU-Decomposition/blob/main/Screenshot%202026-03-22%20155101.png")
+![alt text](<Screenshot 2026-03-22 155048.png>)
 
 
 ## Result:
